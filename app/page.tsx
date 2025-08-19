@@ -50,9 +50,10 @@ export default function HomePage() {
 
       <section className="container mx-auto px-4 py-20 text-center animate-slide-up">
         <div className="max-w-2xl mx-auto">
-          <h2 className="text-6xl md:text-7xl font-bold mb-8 text-foreground animate-float animate-scale-pulse text-center">
-            Lexy Services
-          </h2>
+          <h1 className="text-3xl font-bold text-foreground animate-glow flex flex-col items-center text-center">
+  <span>Lexy</span>
+  <span>Services</span>
+</h1>
           <p className="text-lg text-muted-foreground mb-12 max-w-lg mx-auto animate-fade-in animate-bounce-subtle text-center">
             Basit ve etkili çözümler sunan platform
           </p>
