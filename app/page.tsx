@@ -65,7 +65,7 @@ export default function HomePage() {
           <p className="text-muted-foreground mb-8 animate-bounce-subtle">Sorularınız için bizimle iletişime geçin</p>
           <div className="space-y-4">
             <p className="text-foreground">lexyservicess@proton.me</p>
-            <p className="text-foreground">@lexiboii (lexyy)</p>
+            <p className="text-foreground">@lexyy (lexyboii)</p>
           </div>
         </div>
       </section>
