@@ -19,7 +19,10 @@ export const metadata: Metadata = {
   title: "Lexy Services",
   description: "Birçok toolu ücretsiz veya paralıya gelişmiş satan bir platformuz.",
   generator: "lexymetadata.app",
-  themeColor: "#000000"
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#ffffff" },
+    { media: "(prefers-color-scheme: dark)", color: "#000000" },
+  ],
 }
 
 export default function RootLayout({
