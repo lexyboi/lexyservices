@@ -17,11 +17,11 @@ const dmSans = DM_Sans({
 
 export const metadata: Metadata = {
   title: "Lexy Services",
-  description: "Birçok toolu ücretsiz veya paralıya gelişmiş satan bir platformuz.",
+  description: "Birçok toolu ücretsize satan bir platformuz. Toolların gelişmiş hali için para isteriz.",
   generator: "lexymetadata.app",
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#ffffff" },
-    { media: "(prefers-color-scheme: dark)", color: "#000000" },
+    { media: "(prefers-color-scheme: light)", color: "#ffffff" }, //thats the light mode if anyone doesnt know btw.
+    { media: "(prefers-color-scheme: dark)", color: "#000000" }, //thats the dark mode if anyone doesnt know btw.
   ],
 }
 
