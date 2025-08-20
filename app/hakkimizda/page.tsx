@@ -61,18 +61,11 @@ export default function HakkimizdaPage() {
               Lexy Services'ın arkasında olanlar:
             </h2>
 
-            <div className="grid md:grid-cols-3 gap-8 mb-12">
+            <div className="grid md:grid-cols-4 gap-8 mb-12">
               <div className="text-center p-6 bg-white/5 rounded-lg animate-scale-pulse">
                 <h3 className="text-xl font-semibold text-foreground mb-2">lexyy</h3>
                 <p className="text-muted-foreground">Discord: lexiboii</p>
                 <p className="text-sm text-muted-foreground mt-2">Kurucu, Geliştirici & Tasarımcı</p>
-              </div>
-                
-              <div className="grid md:grid-cols-3 gap-8 mb-12">
-              <div className="text-center p-6 bg-white/5 rounded-lg animate-scale-pulse">
-                <h3 className="text-xl font-semibold text-foreground mb-2">lexyy</h3>
-                <p className="text-muted-foreground">Discord: umutsgang</p>
-                <p className="text-sm text-muted-foreground mt-2">Satıcı, Destek</p>
               </div>
 
               <div className="text-center p-6 bg-white/5 rounded-lg animate-scale-pulse">
@@ -85,6 +78,12 @@ export default function HakkimizdaPage() {
                 <h3 className="text-xl font-semibold text-foreground mb-2">Demon</h3>
                 <p className="text-muted-foreground">Discord: demondev00</p>
                 <p className="text-sm text-muted-foreground mt-2">Geliştirici & Yardımcı</p>
+              </div>
+
+              <div className="text-center p-6 bg-white/5 rounded-lg animate-scale-pulse">
+                <h3 className="text-xl font-semibold text-foreground mb-2">Umut</h3>
+                <p className="text-muted-foreground">Discord: umutsgang</p>
+                <p className="text-sm text-muted-foreground mt-2">Satıcı & Destek</p>
               </div>
             </div>
           </div>
